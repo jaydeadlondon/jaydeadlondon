@@ -59,7 +59,8 @@ I am a **Python Backend Developer** with **3 years of experience**. While my pri
 <br/>
 
   <!-- 4. Footer Reach Me -->
-  <h2>Reach me</h2>
+<div align="center">
+  <h3>Reach me</h3>
   
   <a href="https://t.me/maineflip" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
