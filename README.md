@@ -1,41 +1,28 @@
 <div align="center">
 
-  <!-- 1. Header Animation -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=23D18B&center=true&vCenter=true&width=500&lines=Hello+There!;I'm+Ivan;Python+Backend+Developer" alt="Typing SVG" />
 
   <br/><br/>
 
-  <!-- 2. Tech Stack (Moved to Top) -->
-  <h3>🛠️ Technical Stack</h3>
-  
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-  <img src="https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-
-  <br/>
-
-  <!-- Frameworks & Core -->
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/celery-%23a9cc54.svg?style=for-the-badge&logo=celery&logoColor=ddf4a4" alt="Celery"/>
-
-  <br/>
-
-  <!-- Databases & Infrastructure -->
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
-  
-  <br/>
-
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgres logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rabbitmq" height="40" alt="rabbitmq logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
 </div>
-
-<br/>
 
 ### 👨‍💻 About Me
 
@@ -47,7 +34,6 @@ I am a **Python Backend Developer** with **3 years of experience**. While my pri
 
 <br/>
 
-  <!-- 3. Music Section -->
 <div align="center">
   <h3>🎧 In Rotation</h3>
   <p><b>snoa - truth (prod. 444 jet)</b></p>
@@ -58,7 +44,6 @@ I am a **Python Backend Developer** with **3 years of experience**. While my pri
 
 <br/>
 
-  <!-- 4. Footer Reach Me -->
 <div align="center">
   <h3>Reach me</h3>
   
