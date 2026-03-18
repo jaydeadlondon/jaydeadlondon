@@ -52,7 +52,9 @@
 I am a **Python Backend Developer** with **3 years of experience**. While my primary focus is backend logic, I have extensive experience building scalable **microservices**, **RESTful APIs**, and complex **Telegram bots**.
 
 🔭 **Current Work:** Developing a microservices ecosystem for a **grocery delivery platform**.
+
 🌱 **Learning:** Deepening knowledge in **FastAPI**, **Redis**, and exploring **Apache Kafka**.
+
 🤝 **Collaboration:** Open to backend-heavy projects and challenging API architectures.
 
 
