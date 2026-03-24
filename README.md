@@ -59,16 +59,6 @@ I am a **Python Backend Developer** with **3 years of experience**. While my pri
 
 
 <div align="center">
-  <h3>🎧 In Rotation</h3>
-  <p><b>snoa - truth (prod. 444 jet)</b></p>
-  <a href="https://soundcloud.com/444jet/truth">
-    <img src="https://img.shields.io/badge/Listen_on_SoundCloud-ff5500?style=flat&logo=soundcloud&logoColor=white" alt="SoundCloud"/>
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
   <h3>Reach me</h3>
   
   <a href="https://t.me/maineflip" target="_blank">
