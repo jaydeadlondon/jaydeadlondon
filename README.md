@@ -49,13 +49,13 @@
 
 ### 👨‍💻 About Me
 
-I am a **Python Backend Developer** with **3 years of experience**. While my primary focus is backend logic, I have extensive experience building scalable **microservices**, **RESTful APIs**, and complex **Telegram bots**.
+I am a **Python Backend Developer** with **3 years of hands‑on experience**, I specialize in creating scalable and efficient backend solutions. I excel at transforming complex requirements into reliable code, with extensive experience in developing scalable **microservices**, secure and performant **RESTful APIs**, and intelligent **Telegram bots** with advanced functionality.
 
-🔭 **Current Work:** Developing a microservices ecosystem for a **grocery delivery platform**.
+🔭 **Current Work:** Having successfully completed the development of a microservices ecosystem for a high‑traffic **grocery delivery platform**, I am now focused on refining system performance, enhancing fault tolerance, and optimizing data flows to ensure long‑term stability and scalability.
 
-🌱 **Learning:** Deepening knowledge in **FastAPI**, **Redis**, and exploring **Apache Kafka**.
+🌱 **Learning:** Actively expanding my skill set by mastering **FastAPI** for building high‑speed APIs, exploring **OpenCV** for computer vision tasks, and deepening my understanding of **machine learning** fundamentals to integrate intelligent features into backend systems. In parallel, I am advancing my expertise in **Kubernetes** to improve container orchestration and streamline deployment processes across distributed environments.
 
-🤝 **Collaboration:** Open to backend-heavy projects and challenging API architectures.
+🤝 **Looking For:** Opportunities to collaborate on ambitious backend projects. I am particularly interested in challenges related to high‑availability systems, microservice orchestration, and optimizing large‑scale data pipelines. I welcome the chance to contribute my skills to projects that demand robust architectural solutions and high system reliability.
 
 
 <div align="center">
