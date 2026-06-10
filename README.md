@@ -1,7 +1,5 @@
 <div align="center">
-
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=23D18B&center=true&vCenter=true&width=500&lines=Hello+There!;I'm+Ivan;Python+Backend+Developer" alt="Typing SVG" />
-
   <br/><br/>
 </div>
 
@@ -27,7 +25,7 @@
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS logo"  />
 </div>
 
-### 
+###
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="githubactions logo"  />
@@ -57,14 +55,26 @@ I am a **Python Backend Developer** with **3 years of hands‑on experience**, I
 
 🤝 **Looking For:** Opportunities to collaborate on ambitious backend projects. I am particularly interested in challenges related to high‑availability systems, microservice orchestration, and optimizing large‑scale data pipelines. I welcome the chance to contribute my skills to projects that demand robust architectural solutions and high system reliability.
 
+###
 
 <div align="center">
   <h3>Reach me</h3>
-  
+
   <a href="https://t.me/maineflip" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  
-  <br/><br/>
 
+  <br/><br/>
+</div>
+
+###
+
+<div align="center">
+  <h3>Music</h3>
+
+  <a href="https://soundcloud.com/worldpactleader" target="_blank">
+    <img src="https://img.shields.io/badge/SoundCloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white" alt="SoundCloud"/>
+  </a>
+
+  <br/><br/>
 </div>
