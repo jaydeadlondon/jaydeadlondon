@@ -47,28 +47,25 @@
 
 ### 👨‍💻 About Me
 
-Python Backend Developer with 3 years of hands‑on experience in designing and implementing scalable backend solutions. Proficient in developing microservices architectures, building secure and high‑performance RESTful APIs, and creating feature‑rich Telegram bots.
+**Python Backend Developer with 3 years of hands‑on experience in designing and implementing scalable backend solutions. Proficient in developing microservices architectures, building secure and high‑performance RESTful APIs, and creating feature‑rich Telegram bots.**
 
 ###
 
-<div align="center">
-  <h3>Reach me</h3>
+---
 
-  <a href="https://t.me/maineflip" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-
-  <br/><br/>
+<div align="center" style="display: flex; gap: 30px; flex-wrap: wrap; align-items: center;">
+  <div>
+    <h3>Reach me</h3>
+    <a href="https://t.me/maineflip" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+    </a>
+  </div>
+  <div>
+    <h3>Music</h3>
+    <a href="https://soundcloud.com/worldpactleader" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/SoundCloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white" alt="SoundCloud"/>
+    </a>
+  </div>
 </div>
 
-###
 
-<div align="center">
-  <h3>Music</h3>
-
-  <a href="https://soundcloud.com/worldpactleader" target="_blank">
-    <img src="https://img.shields.io/badge/SoundCloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white" alt="SoundCloud"/>
-  </a>
-
-  <br/><br/>
-</div>
